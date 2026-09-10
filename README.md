@@ -1,4 +1,4 @@
-# DiffeReason Enables Standardized Pathological Reasoning for Pan-squamous Fine-grained Differentiation
+# DiffeReason Enables Quantitative Pathological Reasoning for Pan-squamous Fine-grained Differentiation
 ## 🤹 Authors [*Corresponding author]
 - Pan Huang, Yiwen Wang, Xinwei Zhang, Zhenglin Ji, Guoqing Fu, Zheng Gu, Qiye Chen, Andi Liu, Weiqian Liao, Jingyao Jia, Francesco Mercaldo, Antonella Santone, Chi Zhang*, Cheng Chen*, Chentao Li*, Xin Luo*, Yifang Ping*, and Jing Qin*
 
